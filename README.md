@@ -66,6 +66,3 @@ Developed by: DHIVYASHREE .R RegisterNumber: 25016639
 
 **Result:**
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
-
-Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
-
